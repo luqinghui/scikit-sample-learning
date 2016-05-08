@@ -3,6 +3,7 @@
 该实例展示了如何使用cross\_val\_predict函数可视化预测误差
 
 ![pic](http://scikit-learn.org/stable/_images/plot_cv_predict_001.png)
+(**图片摘自官方示例文档**)
 
 **python源码：**
 
@@ -51,13 +52,14 @@
 2. [StratifiedKFold][2]
 3. [KFold][3]
 4. [LabelFold][4]
-5. [cross\\_val\\_predict][5]
+5. [cross\_val\_predict][5]
+6. [Plotting Cross-Validated Predictions][6]
 
 [1]: http://blog.csdn.net/u010454729/article/details/50754076
 [2]: http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.StratifiedKFold.html#sklearn.cross_validation.StratifiedKFold
 [3]: http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.KFold.html#sklearn.cross_validation.KFold
 [4]: http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.LabelKFold.html#sklearn.cross_validation.LabelKFold
 [5]: http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.cross_val_predict.html#sklearn.cross_validation.cross_val_predict
-
+[6]: http://scikit-learn.org/stable/auto_examples/plot_cv_predict.html
 
 
